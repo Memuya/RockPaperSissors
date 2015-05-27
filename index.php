@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Rock, Paper, Sissors</title>
+		<title>Rock, Paper, Scissors</title>
 		<style>
 			body {
 				font-size: 12px;
@@ -53,7 +53,7 @@
 			<select name="selection" id="selection">
 				<option value="rock">Rock</option>
 				<option value="paper">Paper</option>
-				<option value="sissors">Sissors</option>
+				<option value="scissors">Scissors</option>
 			</select>
 			<input type="button" value="Play" id="submit">
 			<div id="results"></div>
