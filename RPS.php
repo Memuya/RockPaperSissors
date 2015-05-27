@@ -4,7 +4,7 @@ class RPS {
 
 	public function __construct() {
 		$this->selections = [
-			'rock' => 'sissors',
+			'rock' => 'scissors',
 			'paper' => 'rock',
 			'sissors' => 'paper'
 		];
